@@ -1,8 +1,9 @@
 div {
-    float: center;
+    float: left;
     widht: 400px;
     height: 200px;
     margin: 0%;
     color: darkgray;
+    background: linear-gradient(bottom, blue, black, red);
     place-items: center;
 }
