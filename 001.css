@@ -1,8 +1,8 @@
-body {
-    font-family: linear-gradient(to bottom, rgb(22, 17, 83), #1a128b);
-    color: darkgray;
-    height: 100vh;
+div {
+    float: center;
+    widht: 400px;
+    height: 200px;
     margin: 0%;
-    display: grid;
+    color: darkgray;
     place-items: center;
 }
