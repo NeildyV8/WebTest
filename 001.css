@@ -1,0 +1,23 @@
+body {
+    font-family: linear-gradient(to bottom, rgb(22, 17, 83), #1a128b);
+    color: darkgray;
+    height: 100vh;
+    margin: 0%;
+    display: grid;
+    place-items: center;
+}
+p.serif {
+    font-family: 'Times New Roman', Times, serif;
+}
+p.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+p.monospace {
+    font-family: 'Courier New', Courier, monospace;
+}
+p.cursive {
+    font-family: florence, cursive;
+}
+p.fantasy {
+    font-family: blippo, fantasy;
+}
