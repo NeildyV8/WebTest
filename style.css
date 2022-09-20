@@ -1,9 +1,28 @@
-div {
-    float: left;
-    widht: 400px;
-    height: 200px;
-    margin: 0%;
-    color: darkgray;
-    background: linear-gradient(bottom, blue, black, red);
-    place-items: center;
-}
+body {
+    padding-left: 11em;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: blue;
+    background-color: black }
+  ul.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em }
+  h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+  ul.navbar li {
+    background: rgb(63, 63, 63);
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black }
+  ul.navbar a {
+    text-decoration: none }
+  a:link {
+    color: red }
+  a:visited {
+    color: purple }
